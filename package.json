@@ -1,0 +1,10 @@
+{
+  "type": "module",
+  "scripts": {
+    "test": "vitest"
+  },
+  "devDependencies": {
+    "jsdom": "^20.0.0",
+    "vitest": "^0.23.4"
+  }
+}
